@@ -344,7 +344,7 @@ git add .
 git commit -m "Primer commit"
 
 # Crear rama de trabajo
-git switch -c desarrollo
+git switch -c develop
 
 # Revisar historial
 git log --oneline
@@ -357,4 +357,8 @@ git push -u origin main
 
 # Actualizar cambios remotos
 git pull origin main
+
+# Fusion de ramas
+git merge ticket/001
+
 ```
