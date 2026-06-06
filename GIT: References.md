@@ -326,6 +326,33 @@ Aplicación:
 
 Actualizar la copia local del proyecto con los cambios más recientes del equipo.
 
+
+
+Comando 2da sesion:
+
+git-switch
+git-branch
+git-merge
+git-reset
+git-restore
+git-log
+
+.gitignore
+git-stash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Flujo de trabajo básico
