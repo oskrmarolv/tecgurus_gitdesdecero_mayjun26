@@ -331,6 +331,7 @@ Actualizar la copia local del proyecto con los cambios más recientes del equipo
 Comando 2da sesion:
 
 git-switch
+git-checkout
 git-branch
 git-merge
 git-reset
