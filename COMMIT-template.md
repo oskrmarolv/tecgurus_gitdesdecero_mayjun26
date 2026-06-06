@@ -3,20 +3,26 @@
 Recomendacion para la estructura básica de un commit siguiendo buenas practicas.
 
 ``` 
-[ tema/tag ]  descripcion_corta
+[ tema/tag ]  descripcion_corta (una sola linea)
 
-  - descripcion completa (tipicamente definido a modos de lista)
-  - descripcion completa (tipicamente definido a modos de lista)
-  - descripcion completa (tipicamente definido a modos de lista)
-  - descripcion completa (tipicamente definido a modos de lista)
+  descripcion detallada
+    - cambia A
+    - cambia B
+    - cambia C
+    - correcion A
+    - requerimiento A
 
-[ comandos ]
+
+[ instrucciones para herramientas de integracion ]
 ```
 
-Temas:
 
-* change   cambios
-* fix      correcciones
-* hotfix   correcciones criticas/urgentes
-* feature  nuevas caracteristicas
-* ui       cambios visuales
+Temas (sugeridos):
+
+| | uso |
+| ----- | ----- |
+| `change` | Modificaciones menores |
+| `fix` | Correciones |
+| `hotfix` | Correccion urgente sobre la liberarion |
+| `feature` | Nueva caracteristica en desarrollo |
+| `ui` | Cambio en interfaz |
