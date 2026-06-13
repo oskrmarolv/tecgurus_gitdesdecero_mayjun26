@@ -1,8 +1,16 @@
 # tecgurus_gitdesdecero_mayjun26
 Repositorio para curso "Git Desde Cero" Mayo-Junio 2026
 
-## Para iniciar
+---
 
-## Comandos basicos
+commit desde la rama "develop"
 
-## Comandos avanzados
+## Para comenzar
+
+## Lista de comandos
+
+### Basicos
+
+### Avanzados
+
+---
