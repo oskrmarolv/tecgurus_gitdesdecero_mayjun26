@@ -1,0 +1,9 @@
+# .gitignore
+
+*.docx
+*.xlsx
+*.swap
+
+log_*
+
+imagenes/

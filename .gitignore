@@ -1,3 +1,11 @@
 # .gitignore
 
+# - Es jerarquico siempre dando prioridad al
+# nodo de directorio inferior
+
+# Regla:
+# Omite todo los archivos cuyo patron de nombre sera
+# cualquier_nombre.log
 *.log
+
+*.orig
