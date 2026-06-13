@@ -9,3 +9,6 @@ merge squash
   - procesos de rollback facilmente
 
 rebase
+
+
+## Opciones de reset (--soft --hard)
