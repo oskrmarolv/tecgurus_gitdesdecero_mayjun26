@@ -1,3 +1,9 @@
+# GIT: notes
+
+---
+
+## Tipos de merge
+
 merge fast-forward 
   - genera un commit especial de tipo "merge"
   - mantiene el historico de cambios 
