@@ -1,16 +1,23 @@
-# GIT desde Cero
+# tecgurus_gitdesdecero_mayjun26
 
-> Repositorio para curso "Git Desde Cero" Mayo-Junio 2026
+DEVELOPER BY Oscar
+
+Repositorio para curso "Git Desde Cero" Mayo-Junio 2026
+
+commit 2 desde feature/002
+
+> Control version software
 
 ---
 
-commit 1 desde feature/004
+commit desde la rama "develop"
 
-## Primeros pasos
+## Para comenzar
 
 ## Lista de comandos
 
+### Basicos
 
-## Anexos
+### Avanzados
 
 ---
