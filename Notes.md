@@ -1,8 +1,8 @@
-# GIT: notes
+# GIT: Notes
 
----
+> Anotaciones y explicaciones importantes
 
-## Tipos de merge
+## git-merge
 
 merge fast-forward 
   - genera un commit especial de tipo "merge"
